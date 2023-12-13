@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "stBktcU3h3lM97QmBEc8e7vJEb5zuUXeuDqyiJokfUk=",
+  "Source": "devops_customer_service",
+  "BasePath": "_content/devops_customer_service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
